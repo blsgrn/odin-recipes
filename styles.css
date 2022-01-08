@@ -1,0 +1,19 @@
+h1 {
+  color: indigo;
+  font-size: 45px;
+  font-family: Georgia;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-color: darkorange;
+  padding-top: 20px;
+}
+
+body {
+  text-align: center;
+  background-color: palegoldenrod;
+}
+a {
+  font-size: 25px;
+  text-decoration: salmon;
+  color: chartreuse;
+}
