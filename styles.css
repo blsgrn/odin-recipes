@@ -1,6 +1,6 @@
 h1 {
   color: indigo;
-  font-size: 45px;
+  font-size: 90px;
   font-family: Georgia;
   text-decoration-line: underline;
   text-decoration-style: double;
@@ -11,9 +11,19 @@ h1 {
 body {
   text-align: center;
   background-color: palegoldenrod;
+  background-size: 1366px 768px;
 }
 a {
-  font-size: 25px;
+  font-family: Gill Sans MT;
+  font-size: 40px;
   text-decoration: salmon;
   color: darkblue;
+  list-style: georgian;
+}
+
+#id001 {
+  display: block;
+}
+#id002 {
+  display: block;
 }
